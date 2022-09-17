@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/v1/short
+Content-Type: application/json
+
+{
+    "longUrl": "https://github.com/mrtuxa"
+}
